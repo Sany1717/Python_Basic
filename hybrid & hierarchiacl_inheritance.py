@@ -1,0 +1,1 @@
+#same of Inheritance, Multiple Inheritance, Multilevel inheritance
